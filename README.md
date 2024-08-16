@@ -1,8 +1,8 @@
 # Hi there, I'm Tyler 👋
 ## About Me
 - 🎓 Pursuing a master's in computer science at **Dartmouth College**, researching large language and generative audio models. Graduated last year with a bachelor's degree in computer science.
-- 💼 Software Engineer at [CivicBell](https://civicbell.com/), where I lead a team to create impactful civic engagement solutions.
-- 🌱 I’m currently diving deep into generative AI, exploring the intersections of machine learning, creativity, and human-computer interaction.
+- 💼 Software Engineer at [Nooks](https://www.nooks.ai/), where we're building an AI copilot for sales teams.
+- 🌱 Currently diving deep into generative AI with research at Dartmouth, exploring the intersections of machine learning, creativity, and human-computer interaction.
 - 🚀 Previous experience includes software engineering internships at AWS (the DynamoDB Streams team) and Canopy, an SF-based startup. I also work part-time as a freelancer, where I've built sites for organizations like [TroutRoutes](https://maps.troutinsights.com/) and the [Dartmouth IDEA Lab](https://dartmouthidea.org/).
 
 ## My Tech Stack
