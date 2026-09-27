@@ -40,6 +40,6 @@
 ## Let's Connect!
 - 📫 How to reach me: [tvergho@gmail.com](mailto:tvergho@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/tyler-vergho](https://www.linkedin.com/in/tyler-vergho/)
-- 🌐 Personal Site: [tvergho.me](https://tvergho.me/)
+- 🌐 Personal Site: [tvergho.com](https://tvergho.com/)
 
 *Always open to new challenges and collaborations!*
